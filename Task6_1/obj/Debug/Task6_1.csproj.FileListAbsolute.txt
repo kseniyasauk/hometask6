@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2015\Projects\Task6_Exceptions\Task6_1\bin\Debug\Task6_1.exe.config
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_1\bin\Debug\Task6_1.exe.config
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_1\bin\Debug\Task6_1.exe
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_1\bin\Debug\Task6_1.pdb
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_1\bin\Debug\log4net.dll
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_1\bin\Debug\log4net.xml
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_1\obj\Debug\Task6_1.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_1\obj\Debug\Task6_1.exe
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_1\obj\Debug\Task6_1.pdb

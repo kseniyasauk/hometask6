@@ -1,0 +1,2 @@
+[Header]\r\n2016-10-04 17:45:38,298 [1] FATAL Task6_1.ReadingFromFile File is not found!You input uncorrect path or this file is not exist!
+[Footer]\r\n
