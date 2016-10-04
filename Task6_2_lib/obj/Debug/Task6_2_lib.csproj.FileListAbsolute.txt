@@ -1,0 +1,5 @@
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_2_lib\obj\Debug\Task6_2_lib.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_2_lib\bin\Debug\Task6_2_lib.dll
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_2_lib\bin\Debug\Task6_2_lib.pdb
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_2_lib\obj\Debug\Task6_2_lib.dll
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_2_lib\obj\Debug\Task6_2_lib.pdb

@@ -1,0 +1,8 @@
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_2_Tests\obj\Debug\Task6_2_Tests.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_2_Tests\bin\Debug\Task6_2_Tests.dll
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_2_Tests\bin\Debug\Task6_2_Tests.pdb
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_2_Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_2_Tests\bin\Debug\Task6_2_lib.dll
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_2_Tests\bin\Debug\Task6_2_lib.pdb
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_2_Tests\obj\Debug\Task6_2_Tests.dll
+C:\Users\PC\Documents\VisualStudio2015\Projects\Task6_Exceptions\Task6_2_Tests\obj\Debug\Task6_2_Tests.pdb
